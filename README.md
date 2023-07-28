@@ -15,7 +15,7 @@
 <ol>
   <li>Clone this repository to your local machine using the following command:</li>
 </ol>
-git clone https://github.com/ZuryOphre/Currency-and-Temperature-Converter.git
+  <code>git clone https://github.com/ZuryOphre/Currency-and-Temperature-Converter.git</code>
 <ol start="2">
   <li>Open the project in your favorite Java IDE (such as Eclipse or IntelliJ IDEA).</li>
   <li>Run the <code>CurrencyConverterApp.java</code> file to launch the application.</li>
@@ -60,7 +60,8 @@ git clone https://github.com/ZuryOphre/Currency-and-Temperature-Converter.git
     <img src="https://avatars.githubusercontent.com/ZuryOphre" alt="Zury Martinez" width="100" height="100" style="border-radius: 50%;">
   </a>
   <br>
-  <a href="https://github.com/ZuryOphre" style="font-size: 20px; font-weight: bold;">Zury Martinez</a>
+  <a href="https://github.com/ZuryOphre" style="font-size: 20px; font-weight: bold;">GitHub</a>
   <br>
   <a href="https://www.linkedin.com/in/zury-martinez" style="font-size: 16px;">LinkedIn</a>
+  <p align="center">Zury Martinez-Developer</p>
 </p>
